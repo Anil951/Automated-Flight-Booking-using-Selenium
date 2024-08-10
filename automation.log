@@ -1,0 +1,28 @@
+2024-08-10 15:37:39,885 - INFO - URL: https://www.expedia.co.in/
+2024-08-10 15:37:40,240 - INFO - Title: Expedia Travel: Vacations, Cheap Flights, Airline Tickets & Airfares
+2024-08-10 15:37:41,616 - INFO - Screenshot saved: screenshots\Expedia_Home.png
+2024-08-10 15:37:49,764 - INFO - 'Flights' button clicked
+2024-08-10 15:37:51,145 - INFO - Screenshot saved: screenshots\Flights_Tab.png
+2024-08-10 15:37:53,420 - INFO - Clicked 'leaving from' text box
+2024-08-10 15:37:54,394 - INFO - Screenshot saved: screenshots\Leaving_From_Click.png
+2024-08-10 15:38:00,942 - INFO - 'Kolkata' typed in departure
+2024-08-10 15:38:01,981 - INFO - Screenshot saved: screenshots\Kolkata_Departure.png
+2024-08-10 15:38:10,906 - INFO - 'Hyderabad' typed in destination
+2024-08-10 15:38:11,663 - INFO - Screenshot saved: screenshots\Hyderabad_Destination.png
+2024-08-10 15:38:14,012 - INFO - Clicked on 'Calendar'
+2024-08-10 15:38:14,701 - INFO - Screenshot saved: screenshots\Calendar_Click.png
+2024-08-10 15:38:18,843 - INFO - Selected date 'September 8'
+2024-08-10 15:38:19,449 - INFO - Screenshot saved: screenshots\Date_Selected.png
+2024-08-10 15:38:21,899 - INFO - Clicked on 'Done' button
+2024-08-10 15:38:22,766 - INFO - Screenshot saved: screenshots\Done_Click.png
+2024-08-10 15:38:24,943 - INFO - Clicked on 'Travellers' button
+2024-08-10 15:38:25,599 - INFO - Screenshot saved: screenshots\Travellers_Click.png
+2024-08-10 15:38:28,853 - INFO - Selected 2 Adults
+2024-08-10 15:38:29,564 - INFO - Screenshot saved: screenshots\2_Adults_Selected.png
+2024-08-10 15:38:29,888 - INFO - 'Travellers Done' button clicked
+2024-08-10 15:38:30,758 - INFO - Screenshot saved: screenshots\Travellers_Done_Click.png
+2024-08-10 15:39:08,762 - INFO - 'Search' button clicked
+2024-08-10 15:39:10,520 - INFO - Screenshot saved: screenshots\Search_Click.png
+2024-08-10 15:39:13,292 - INFO - Clicked on the first flight available
+2024-08-10 15:39:13,746 - INFO - Screenshot saved: screenshots\First_Flight_Click.png
+2024-08-10 15:39:19,921 - INFO - Browser closed
